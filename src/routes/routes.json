@@ -1,0 +1,8 @@
+{
+  "HOME": "/",
+  "MENU": "/menu",
+  "CART": "/cart",
+  "ORDER_CONFIRM": "/ordersuccess",
+  "LOGIN": "/login",
+  "REGISTER": "/registerform"
+}
